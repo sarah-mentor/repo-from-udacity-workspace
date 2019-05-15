@@ -54,7 +54,7 @@ git push -u origin master
 ```
 
 8.  Enter your GitHub username and password when prompted:
-![Workspace Terminal](./images/demo-repo-Workspace-2.jpg)
+![Workspace Terminal](./images/demo-repo-workspace-2.jpg)
 
 ---
 
