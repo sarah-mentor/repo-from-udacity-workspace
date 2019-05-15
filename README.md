@@ -1,4 +1,4 @@
-Workspace# Setting up a GitHub repo for a Project in the Udacity Workspace
+# Setting up a GitHub repo for a Project in the Udacity Workspace
 
 
 This document should help you get a remote GitHub repository linked to your Udacity Workspace.  Please note that each Workspace will need its own repo.
