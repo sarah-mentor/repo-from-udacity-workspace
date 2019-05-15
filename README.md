@@ -1,7 +1,7 @@
-# Setting up a GitHub repo for a Project in the Udacity Workspace
+Workspace# Setting up a GitHub repo for a Project in the Udacity Workspace
 
 
-This document should help you get a remote Github repository linked to your Udacity Workspace.  Please note that each Workspace will need its own repo.
+This document should help you get a remote GitHub repository linked to your Udacity Workspace.  Please note that each Workspace will need its own repo.
 
 ##### I. [Instructions](#instructions)  
 ##### II.  [Troubleshooting](#troubleshooting)
@@ -27,8 +27,8 @@ git config --global user.name "Your Name"
 git add -A
 git commit -m "Initial Commit"
 ```
-Your WorkSpace terminal should look something like this:
-![Workspace Terminal](./images/demo-repo-workspace.jpg)
+Your Workspace terminal should look something like this:
+![Workspace Terminal](./images/demo-repo-Workspace.jpg)
 
 
 ### Go to **[GitHub.com](https://github.com/)** and log in:
@@ -53,8 +53,8 @@ git remote add origin https://github.com/your-name/yourrepo.git
 git push -u origin master
 ```
 
-8.  Enter your Github username and password when prompted:
-![Workspace Terminal](./images/demo-repo-workspace-2.jpg)
+8.  Enter your GitHub username and password when prompted:
+![Workspace Terminal](./images/demo-repo-Workspace-2.jpg)
 
 ---
 
