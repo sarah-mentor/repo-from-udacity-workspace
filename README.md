@@ -30,6 +30,22 @@ git commit -m "Initial Commit"
 Your Workspace terminal should look something like this:
 ![Workspace Terminal](./images/demo-repo-workspace.jpg)
 
+### Create a access personal token (your unique password)
+
+! Update: Support for password authentication was removed on August 13, 2021
+So, you will have to generate your own personal access token.
+
+** You will have to keep it safe and secret. Each token you generate you can see it once!
+
+(Requirement: You will have to confirm your e-mail account)
+
+4. In the upper-right corner of any page, click your profile photo, then click Settings.
+
+5. In the left sidebar, click Developer settings.
+
+6. In the left sidebar, click Personal access tokens
+
+7. Click Generate new token.
 
 ### Go to **[GitHub.com](https://github.com/)** and log in:
 
