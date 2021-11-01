@@ -36,7 +36,7 @@ Your Workspace terminal should look something like this:
 **Update**: Support for password authentication was removed on August 13, 2021
 So, you will have to generate your own personal access token.
 
-** You will have to keep it safe and secret. Each token you generate you can see it once!**
+**You will have to keep it safe and secret. Each token you generate you can see it once!**
 
 (Requirement: You will have to confirm your e-mail account)
 
