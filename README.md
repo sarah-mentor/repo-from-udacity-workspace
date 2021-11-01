@@ -30,12 +30,13 @@ git commit -m "Initial Commit"
 Your Workspace terminal should look something like this:
 ![Workspace Terminal](./images/demo-repo-workspace.jpg)
 
-### Create a access personal token (your unique password)
+### Create a access personal token (your unique password):
+(source: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-! Update: Support for password authentication was removed on August 13, 2021
+**Update**: Support for password authentication was removed on August 13, 2021
 So, you will have to generate your own personal access token.
 
-** You will have to keep it safe and secret. Each token you generate you can see it once!
+** You will have to keep it safe and secret. Each token you generate you can see it once!**
 
 (Requirement: You will have to confirm your e-mail account)
 
@@ -45,7 +46,13 @@ So, you will have to generate your own personal access token.
 
 6. In the left sidebar, click Personal access tokens
 
+![create new token](./images/generate_new_token.png?raw=true)
 7. Click Generate new token.
+
+![create new token](./images/token_scopes.gif?raw=true)
+8. Select the scopes, or permissions, you'd like to grant this token. To use your token to access repositories from the command line, select repo.
+
+9. **Click Generate token.**
 
 ### Go to **[GitHub.com](https://github.com/)** and log in:
 
