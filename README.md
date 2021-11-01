@@ -47,22 +47,24 @@ So, you will have to generate your own personal access token.
 6. In the left sidebar, click Personal access tokens
 
 ![create new token](./images/generate_new_token.png?raw=true)
+
 7. Click Generate new token.
 
 ![create new token](./images/token_scopes.gif?raw=true)
+
 8. Select the scopes, or permissions, you'd like to grant this token. To use your token to access repositories from the command line, select repo.
 
 9. **Click Generate token.**
 
 ### Go to **[GitHub.com](https://github.com/)** and log in:
 
-4. Create a new repository
+10. Create a new repository
 
-5. Do _not_ check the "Initialize this repository with a README" radio button
+11. Do _not_ check the "Initialize this repository with a README" radio button
    Create a new repository
 ![GitHub initialize new repo](./images/demo-repo-initialize.jpg?raw=true)
 
-6. On the next page, copy the code in the ***push an existing repository from the command line*** section:
+12. On the next page, copy the code in the ***push an existing repository from the command line*** section:
 &nbsp;  
 ![GitHub setup remote](./images/demo-repo-push.jpg)
 
@@ -70,13 +72,13 @@ So, you will have to generate your own personal access token.
 
 ### Go back to Workspace
 
-7.  Paste in the terminal:
+13.  Paste in the terminal:
 ```bash
 git remote add origin https://github.com/your-name/yourrepo.git
 git push -u origin master
 ```
 
-8.  Enter your GitHub username and password when prompted:
+14.  Enter your GitHub username and password when prompted:
 ![Workspace Terminal](./images/demo-repo-workspace-2.jpg)
 
 ---
@@ -84,9 +86,9 @@ git push -u origin master
 ## Troubleshooting
 
 ### If there is already a git repo in the Workspace:
-1. Go to the root of the project and delete the repo with this code:
+15. Go to the root of the project and delete the repo with this code:
 ```bash
 rm -fr .git
 ```
 
-2. Start over at [step 1](#instructions) above
+16. Start over at [step 1](#instructions) above
