@@ -78,7 +78,7 @@ git remote add origin https://github.com/your-name/yourrepo.git
 git push -u origin master
 ```
 
-14.  Enter your GitHub username and password when prompted:
+14.  When prompted enter your GitHub username then enter your newly generated token as your password:
 ![Workspace Terminal](./images/demo-repo-workspace-2.jpg)
 
 ---
